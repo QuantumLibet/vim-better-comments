@@ -47,3 +47,10 @@ BetterComments is licensed under the MIT license.
 See http://opensource.org/licenses/MIT
 
 Happy hacking!
+
+</br>
+</br>
+
+### what is different to the original jbgutierrez vim-script?
+
+Not much. I've changed a color. This repo is basically just to avoid pulling from somebody elses repo and then changing it to my liking evey time.
