@@ -53,4 +53,4 @@ Happy hacking!
 
 ### what is different to the original jbgutierrez vim-script?
 
-Not much. I've changed a color. This repo is basically just to avoid pulling from somebody elses repo and then changing it to my liking evey time.
+Not much. I've changed a color. This repo is basically just here to avoid pulling from somebody elses repo and then changing it to my liking evey time.
